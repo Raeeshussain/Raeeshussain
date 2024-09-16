@@ -1,0 +1,5 @@
+chmod +x *
+./Antiban
+chmod +x *
+pip install telebot pymongo aiohttp
+python3 g.py
